@@ -27,3 +27,6 @@ This is a simple React-based packing list application that allows users to add, 
 - Use the sorting dropdown to reorder items.
 
 - Click "Clear list" to remove all items after confirmation.
+
+--- 
+<img src="https://github.com/user-attachments/assets/23e14be3-408a-4ab0-9914-be2d712519a1" width="400" height="250" style="border: 2px solid #ccc; border-radius: 10px; box-shadow: 3px 3px 10px rgba(0,0,0,0.1);" /> 
