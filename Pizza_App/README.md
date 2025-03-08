@@ -19,3 +19,6 @@ This is a simple React-based pizza menu application that displays a list of avai
 - If a pizza is sold out, it will be marked as "SOLD OUT".
 
 - The footer displays the current opening hours and allows ordering if the restaurant is open.
+
+---
+<img src="https://github.com/user-attachments/assets/8a6fe21f-999b-4ebe-868c-c9ac728a07cd" width="400" height="250" style="border: 2px solid #ccc; border-radius: 10px; box-shadow: 3px 3px 10px rgba(0,0,0,0.1);"/>
