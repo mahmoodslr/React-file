@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+/*
 import { useState } from "react";
 
 const messages = [
@@ -90,7 +90,7 @@ function Button({ textColor, bgColor, onClick, children }) {
     </button>
   );
 }
-=======
+*/
 import { useState } from "react";
 
 const messages = [
@@ -182,4 +182,3 @@ function Button({ textColor, bgColor, onClick, children }) {
     </button>
   );
 }
->>>>>>> c345fb2 (Added min-React)
