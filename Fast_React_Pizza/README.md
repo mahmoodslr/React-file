@@ -10,7 +10,7 @@ This project is a food ordering system built using React, Redux, and React Route
 - Redux State Management: The app uses Redux for managing cart and user information.
 - API Integration: Orders are created and fetched from an API.
 - User Location Fetching: Users can automatically fetch their current address by clicking the Get Position button, which retrieves their latitude and longitude.
-- 
+  
 
 ## Technologies Used
 - React
